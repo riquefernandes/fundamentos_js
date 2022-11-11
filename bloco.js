@@ -1,4 +1,4 @@
-// Conceitos de sintaxe
+// Organização de blocos e sentenças
 
 /*  
 Como definimos um bloco dentro de um código java script
